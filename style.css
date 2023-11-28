@@ -56,7 +56,9 @@ button {
 
 }
 
-
+.clicked {
+    background-color: green;
+}
 
 
 /* Sezione Footer */
